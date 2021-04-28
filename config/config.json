@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "orion",
+    "password": "estrelas",
+    "database": "weflog",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+    "urlRoot": "http://192.168.0.19:3000/",
+    "origin": "Av. São Paulo, 325 - Mogi das Cruzes / SP",
+    "geocodingAPI": "AIzaSyA1JbeDtUrududmDewCVlIek1e3eN6t540"
+}
